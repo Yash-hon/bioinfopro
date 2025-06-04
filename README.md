@@ -1,3 +1,3 @@
 # bioinfopro
-This is my git first repository
+This is my git first repository.
 Author - Yash Hon
