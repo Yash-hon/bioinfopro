@@ -1,4 +1,4 @@
 # bioinfopro
 This is my git first repository.
 <Br>
-Author - Yash (bioit)
+Author - Yash Hon Bioinformatician
